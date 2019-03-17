@@ -1,2 +1,2 @@
-# POI-based
-industrial PAHs emission in 2016 in mainland China. 
+# POI-based industrial PAH emission inventory in mainland China in 2016
+We produces and provides a series of POI-based industrial emission inventories for polycyclic aromatic hydrocarbons (PAHs, 16 U.S. EPA priority parent pollutants) in mainland China in 2016. The emission inventories have been developed with 0.05 by 0.05 degree spatial resolution. The units of these emission inventories are kg/grid/year. 16 emission sources of the 16 PAHs were considered and mainly included industrial coal combustion, coking, petroleum refinery, primary Al production, and the iron-steel industry.
